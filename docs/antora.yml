@@ -1,4 +1,4 @@
 name: test5
 title: ' Test 5 Documentation '
-# version: ~
+version: ~
 start_page: named-module:index.adoc

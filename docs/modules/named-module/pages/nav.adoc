@@ -1,0 +1,2 @@
+** xref:index1.adoc[Second page]
+** xref:index2.adoc[Third page]
